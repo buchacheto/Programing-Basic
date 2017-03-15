@@ -1,0 +1,6 @@
+C:\Users\buchacheto\Documents\Visual Studio 2015\Projects\Exam 2016\Bitcoin\bin\Debug\Bitcoin.exe.config
+C:\Users\buchacheto\Documents\Visual Studio 2015\Projects\Exam 2016\Bitcoin\bin\Debug\Bitcoin.exe
+C:\Users\buchacheto\Documents\Visual Studio 2015\Projects\Exam 2016\Bitcoin\bin\Debug\Bitcoin.pdb
+C:\Users\buchacheto\Documents\Visual Studio 2015\Projects\Exam 2016\Bitcoin\obj\Debug\Bitcoin.csprojResolveAssemblyReference.cache
+C:\Users\buchacheto\Documents\Visual Studio 2015\Projects\Exam 2016\Bitcoin\obj\Debug\Bitcoin.exe
+C:\Users\buchacheto\Documents\Visual Studio 2015\Projects\Exam 2016\Bitcoin\obj\Debug\Bitcoin.pdb
